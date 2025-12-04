@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Avid",
+  "base_artist": "SawanoHiroyuki[nZk]",
+  "createdAt": "2025-12-04T12:59:28.921915Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Avid",
+      "artist": "SawanoHiroyuki[nZk]:mizuki",
+      "has_synced": false,
+      "path": "select/01_Avid_SawanoHiroyuki[nZk]_mizuki.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Avid",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/02_Avid_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Avid",
+      "artist": "SawanoHiroyuki[nZk]:Mizuki",
+      "has_synced": true,
+      "path": "select/03_Avid_SawanoHiroyuki[nZk]_Mizuki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Avid (feat. mizuki)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/04_Avid_(feat._mizuki)_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Avid",
+      "artist": "SawanoHiroyuki[nZk]:mizuki",
+      "has_synced": true,
+      "path": "select/05_Avid_SawanoHiroyuki[nZk]_mizuki.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Avid",
+      "artist": "SawanoHiroyuki[nZk]:mizuki",
+      "has_synced": true,
+      "path": "select/06_Avid_SawanoHiroyuki[nZk]_mizuki.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Avid",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/07_Avid_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The MTA (A Love Song Written By an Avid Cyclist After Having Been Doored)",
+      "artist": "8bit Betty",
+      "has_synced": false,
+      "path": "select/08_The_MTA_(A_Love_Song_Written_By_an_Avid_Cyclist_After_Having_Been_Doored)_8bit_Betty.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Avid (Original Mix)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/09_Avid_(Original_Mix)_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Avid",
+      "artist": "SawanoHiroyuki[nZk] feat. mizuki",
+      "has_synced": true,
+      "path": "select/10_Avid_SawanoHiroyuki[nZk]_feat._mizuki.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Avid",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/11_Avid_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Avid (feat. mizuki)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/12_Avid_(feat._mizuki)_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Avid",
+      "artist": "SawanoHiroyuki[nZk]:mizuki",
+      "has_synced": true,
+      "path": "select/13_Avid_SawanoHiroyuki[nZk]_mizuki.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Avid",
+      "artist": "SawanoHiroyuki[nZk] feat. 瑞月",
+      "has_synced": true,
+      "path": "select/14_Avid_SawanoHiroyuki[nZk]_feat._瑞月.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Avid",
+      "artist": "SawanoHiroyuki[nZk]:mizuki",
+      "has_synced": true,
+      "path": "select/15_Avid_SawanoHiroyuki[nZk]_mizuki.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Avid (ft. mizuki)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/16_Avid_(ft._mizuki)_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Avid (Haywyre Remix) - SACRA BEATS Singles",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/17_Avid_(Haywyre_Remix)_-_SACRA_BEATS_Singles_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Avid",
+      "artist": "SawanoHiroyuki[nZk]:mizuki",
+      "has_synced": false,
+      "path": "select/pl_01_Avid_SawanoHiroyuki[nZk]_mizuki.txt"
+    }
+  ]
+}
